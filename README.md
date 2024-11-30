@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bloatyy
+- 👋 Hi, I’m Kunal aka Bloatyy
 - 👀 I’m interested in Coding and Technology
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on Open Source Projects.
